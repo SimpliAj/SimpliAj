@@ -2,20 +2,20 @@
 - Assembly Language 🌱
 
 ## 💼 Experience
-- FiveM Development: Focus on ESX & QB frameworks.
-- Sneaker Bots: Developed CLI tools & browser extensions.
-- Discord Automation: Bots & custom scripts for various tasks.
-- Web Development: Websites & other web-related technologies.
-- Miscellaneous: A variety of other software projects and experiments.
+- **FiveM Development:** Focus on ESX & QB frameworks.
+- **Sneaker Bots:** Developed CLI tools & browser extensions.
+- **Discord Automation:** Bots & custom scripts for various tasks.
+- **Web Development:** Websites & other web-related technologies.
+- **Miscellaneous:** A variety of other software projects and experiments.
 
 ## 🛠 Languages & Tools
-- Primary Languages:
+- **Primary Languages:**
   - Python, Lua
   - Java, JavaScript
-- Web Development:
+- **Web Development:**
   - HTML, CSS, SQL
   - Three.js, React, TypeScript
-- Systems Programming:
+- **Systems Programming:**
   - C, C++ (limited experience)
 
 <!--
