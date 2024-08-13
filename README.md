@@ -2,7 +2,7 @@
 - Assembly Language 🌱
 
 ## 💼 Experience
-- **FiveM Development:** Focus on ESX & QB frameworks.
+- **FiveM Development:** Focus on ESX framework.
 - **Sneaker Bots:** Developed CLI tools & browser extensions.
 - **Discord Automation:** Bots & custom scripts for various tasks.
 - **Web Development:** Websites & other web-related technologies.
