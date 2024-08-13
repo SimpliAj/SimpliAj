@@ -18,6 +18,8 @@
 - **Systems Programming:**
   - C, C++ (limited experience)
 
+
+<a href="https://info.flagcounter.com/V6Mo"><img src="https://s01.flagcounter.com/mini/V6Mo/bg_0d1117/txt_71cfff/border_000000/flags_0/" alt="Flag Counter" border="0"></a>
 <!--
 **SimpliAj/SimpliAj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
