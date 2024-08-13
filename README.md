@@ -1,27 +1,20 @@
 ## Currently learning:
 
-
 - 🌱 I’m currently learning assembly
 
 ## Experience:
 
-
 - ⚡ FiveM (ESX & QB)
 - ⚡ Sneaker Bots (CLI & Browser Extensions)
 - ⚡ Discord Bots & Self Scripts
-- ⚡ Browser Extensions
-- ⚡ Websites & other WWW related
+- ⚡ Websites & other WWW things
 - ⚡ & other stuff
 
 ## Languages:
 
-
 - 💬 Python
-- 💬 Java
-- 💬 JavaScripts
-- 💬 Html / CSS / SQL
-- 💬 Three.js
-- 💬 React
+- 💬 Java / JavaScripts
+- 💬 Html / CSS / SQL / Three.js / React
 - 💬 TypeScript
 - 💬 C & C++ (not as much experience in the wild)
 
