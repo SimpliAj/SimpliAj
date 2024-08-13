@@ -3,6 +3,14 @@
 
 - 🌱 I’m currently learning assembly
 
+## Experience
+
+
+- ⚡ FiveM (ESX & QB)
+- ⚡ Sneaker Bots (CLI & Browser Extensions)
+- ⚡ Discord Bots & Self Scripts
+- ⚡ Browser Extensions
+- ⚡ & other stuff
 
 <!--
 **SimpliAj/SimpliAj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
