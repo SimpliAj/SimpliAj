@@ -1,25 +1,23 @@
-## Currently learning:
+## 📚 Currently Learning
+- Assembly Language 🌱
 
-- 🌱 I’m currently learning assembly
+## 💼 Experience
+- FiveM Development: Focus on ESX & QB frameworks.
+- Sneaker Bots: Developed CLI tools & browser extensions.
+- Discord Automation: Bots & custom scripts for various tasks.
+- Web Development: Websites & other web-related technologies.
+- Miscellaneous: A variety of other software projects and experiments.
 
-## Experience:
+## 🛠 Languages & Tools
+- Primary Languages:
+  - Python, Lua
+  - Java, JavaScript
+- Web Development:
+  - HTML, CSS, SQL
+  - Three.js, React, TypeScript
+- Systems Programming:
+  - C, C++ (limited experience)
 
-- ⚡ FiveM (ESX & QB)
-- ⚡ Sneaker Bots (CLI & Browser Extensions)
-- ⚡ Discord Bots & Self Scripts
-- ⚡ Websites & other WWW things
-- ⚡ & other stuff
-
-## Languages:
-
-- 💬 Python / Lua
-- 💬 Java / JavaScripts
-- 💬 Html / CSS / SQL / Three.js / React
-- 💬 TypeScript
-- 💬 C* & C++*
-
-
-*(not as much experience in the wild)
 <!--
 **SimpliAj/SimpliAj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
