@@ -12,12 +12,14 @@
 
 ## Languages:
 
-- 💬 Python
+- 💬 Python / Lua
 - 💬 Java / JavaScripts
 - 💬 Html / CSS / SQL / Three.js / React
 - 💬 TypeScript
-- 💬 C & C++ (not as much experience in the wild)
+- 💬 C* & C++*
 
+
+*(not as much experience in the wild)
 <!--
 **SimpliAj/SimpliAj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
