@@ -17,7 +17,7 @@
   - Three.js, React, TypeScript
 - **Systems Programming:**
   - C, C++ (limited experience)
-  - 
+  
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SimpliAj)
 
 <!--
