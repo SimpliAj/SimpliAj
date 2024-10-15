@@ -2,8 +2,8 @@
 - Assembly Language 🌱
 
 ## 💼 Experience
-- **FiveM Development:** Focus on ESX framework.
 - **Sneaker Bots:** Developed CLI tools & browser extensions.
+- **FiveM Development:** Focus on ESX framework.
 - **Discord Automation:** Bots & custom scripts for various tasks.
 - **Web Development:** Websites & other web-related technologies.
 - **Miscellaneous:** A variety of other software projects and experiments.
@@ -17,7 +17,7 @@
   - Three.js, React, TypeScript
 - **Systems Programming:**
   - C, C++ (limited experience)
-  
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SimpliAj)
 
 <!--
