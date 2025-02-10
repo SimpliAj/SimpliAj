@@ -22,9 +22,6 @@ I'm a **developer, graphic designer, and cybersecurity enthusiast** passionate a
 - 🏗️ HTML, 🎨 CSS, 🗄️ SQL
 - 🛸 Three.js, ⚛️ React, 🌀 TypeScript
 
-### **Systems Programming:**
-- 🖥️ C, C++ (limited experience but growing!)
-
 ## 🏗️ Current Projects
 - **LockForce** – A Password Manager that runs on a USB stick
 - **PiBellBot** – A Raspberry Pi-based doorbell notification system for Telegram and Discord.
