@@ -36,7 +36,7 @@ I'm a **developer, graphic designer, and cybersecurity enthusiast** passionate a
 </details>
 
 ## 🏗️ Current Projects
-- **LockForce** – A Password Manager that runs on a USB stick
+- **KeyForge** – A Password Manager that runs on a USB stick
 - **PiBellBot** – A Raspberry Pi-based doorbell notification system for Telegram and Discord.
 
 ---
