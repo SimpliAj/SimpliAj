@@ -6,7 +6,7 @@ I'm a **developer, graphic designer, and cybersecurity enthusiast** passionate a
 ## 📚 Currently Learning
 <details>
     <summary>Click to expand</summary>
-- **Assembly Language** 🌱 – Exploring low-level programming to understand how computers truly work.
+- Dipping into Assembly – Exploring low-level programming to understand how computers truly work.
 </details>
 
 ## 💼 Experience
