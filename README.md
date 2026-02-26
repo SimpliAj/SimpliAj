@@ -3,10 +3,10 @@
 ## 🚀 About Me
 I'm a **developer, graphic designer, and cybersecurity enthusiast** passionate about automation, web development, and game design. I enjoy creating innovative solutions and sharing my knowledge through open-source projects.
 
-## 📚 Currently Learning
+## 📚 Current Project
 <details>
     <summary>Click to expand</summary>
-- Dipping into Assembly – Exploring low-level programming to understand how computers truly work.
+- Working on a Reptile Manager (Web Based), with Features as Breeding Calculator, Plants Manager, Terrarium Manager, Foodtracker and many more features. Written in JavaScript/Node.js
 </details>
 
 ## 💼 Experience
@@ -34,11 +34,3 @@ I'm a **developer, graphic designer, and cybersecurity enthusiast** passionate a
 - 🛸 Three.js, ⚛️ React, 🌀 TypeScript
 
 </details>
-
-## 🏗️ Current Projects
-- **KeyForge** – A Password Manager that runs on a USB stick
-- **PiBellBot** – A Raspberry Pi-based doorbell notification system for Telegram and Discord.
-
----
-
-⭐️ _Feel free to check out my repositories and contribute! Let's build something awesome together._
