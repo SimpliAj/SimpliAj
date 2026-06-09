@@ -31,7 +31,7 @@ const developer = {
 
 ### 🚀 Featured
 
-**🦎 [ReptileEx](https://app.reptileex.xyz)** — private repo · [live app ↗](https://app.reptileex.xyz)
+**🦎 [ReptileEx](https://reptileex.xyz)** — private repo · [live app ↗](https://app.reptileex.xyz)
 Full-stack reptile management platform. Terrarium tracking, breeding calculator, feeding logs, genetics engine. Multilingual · iOS/Android via Capacitor.
 `Node.js` `Express` `SQLite` `Tailwind` `Redis`
 
