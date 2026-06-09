@@ -18,7 +18,7 @@ const developer = {
   role:     "Full Stack Developer",
   location: "Austria 🇦🇹",
   status:   "● open for freelance & custom projects",
-  focus:    ["Web Apps", "Automation", "Discord Bots", "Mobile Apps"],
+  focus:    ["Web Apps", "Automation", "Discord Bots", "Mobile Apps", "AI Agents"],
   background: [
     "Security Research & Browser Tooling",
     "API Automation & Web Scraping",
@@ -70,7 +70,20 @@ Modern open-source desktop management solution for Windows.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nextjs,react,tailwind,sqlite,postgres,supabase,cs,java,lua,html,css,git,vercel,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,php,lua,bash,cs,java,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,supabase,nginx,vercel,git&perline=8" />
+
+</div>
+
+<div align="center">
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-06B6D4?style=flat-square&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-06B6D4?style=flat-square&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-1e1e2e?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-444?style=flat-square&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000?style=flat-square&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logoColor=white)
 
 </div>
 
