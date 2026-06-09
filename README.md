@@ -79,16 +79,5 @@ Modern open-source desktop management solution for Windows.
 ### 📊 Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SimpliAj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpliAj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SimpliAj&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=FF6B6B&currStreakLabel=06B6D4" />
 </div>
-
----
-
-<div align="center"><sub>Building in public · always shipping</sub></div>
