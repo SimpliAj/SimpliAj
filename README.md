@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&height=60&lines=I+build+things+that+actually+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=60&lines=I+build+things+that+actually+work." alt="Typing SVG" />
 
 <p>
   <a href="https://simpliaj.xyz"><img src="https://img.shields.io/badge/simpliaj.xyz-Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
