@@ -35,19 +35,19 @@ const developer = {
 Full-stack reptile management platform. Terrarium tracking, breeding calculator, feeding logs, genetics engine. Multilingual · iOS/Android via Capacitor.
 `Node.js` `Express` `SQLite` `Tailwind` `Redis`
 
-**📺 [TwitchDropsMiner](https://github.com/SimpliAj/twitchdropsminer)** ⭐ 2
+**📺 [TwitchDropsMiner](https://github.com/SimpliAj/twitchdropsminer)**
 AFK Twitch drops miner fork. Multi-account, dark redesign, Channel Points tab, drop history, smart skip-game round-robin.
 `Python` `FastAPI` `WebSocket`
 
-**🔍 [QuestPhantom](https://github.com/SimpliAj/QuestPhantom)** ⭐ 5
-Automate Discord Quests efficiently — most starred project.
+**🔍 [QuestPhantom](https://github.com/SimpliAj/QuestPhantom)**
+Automate Discord Quests efficiently with a JS script.
 `JavaScript`
 
-**🧭 [QuestHunter](https://github.com/SimpliAj/QuestHunter)** ⭐ 3
+**🧭 [QuestHunter](https://github.com/SimpliAj/QuestHunter)**
 Discord bot + Puppeteer scraper that auto-detects new Discord quests and broadcasts them across servers.
 `Discord.js` `Puppeteer`
 
-**🖥️ [DeskManager](https://github.com/SimpliAj/DeskManager)** ⭐ 4
+**🖥️ [DeskManager](https://github.com/SimpliAj/DeskManager)**
 Modern open-source desktop management solution for Windows.
 `C#`
 
