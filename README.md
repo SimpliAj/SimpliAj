@@ -31,21 +31,25 @@ const developer = {
 
 ### 🚀 Featured
 
-<a href="https://github.com/SimpliAj/twitchdropsminer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpliAj&repo=twitchdropsminer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/SimpliAj/QuestPhantom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpliAj&repo=QuestPhantom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" />
-</a>
+**🦎 [ReptileEx](https://app.reptileex.xyz)** — private repo · [live app ↗](https://app.reptileex.xyz)
+Full-stack reptile management platform. Terrarium tracking, breeding calculator, feeding logs, genetics engine. Multilingual · iOS/Android via Capacitor.
+`Node.js` `Express` `SQLite` `Tailwind` `Redis`
 
-<a href="https://github.com/SimpliAj/QuestHunter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpliAj&repo=QuestHunter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/SimpliAj/DeskManager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SimpliAj&repo=DeskManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=C9D1D9" />
-</a>
+**📺 [TwitchDropsMiner](https://github.com/SimpliAj/twitchdropsminer)** ⭐ 2
+AFK Twitch drops miner fork. Multi-account, dark redesign, Channel Points tab, drop history, smart skip-game round-robin.
+`Python` `FastAPI` `WebSocket`
 
-> 🦎 **[ReptileEx](https://app.reptileex.xyz)** — full-stack reptile management platform (Node.js · SQLite · Capacitor) — private repo, [live app](https://app.reptileex.xyz)
+**🔍 [QuestPhantom](https://github.com/SimpliAj/QuestPhantom)** ⭐ 5
+Automate Discord Quests efficiently — most starred project.
+`JavaScript`
+
+**🧭 [QuestHunter](https://github.com/SimpliAj/QuestHunter)** ⭐ 3
+Discord bot + Puppeteer scraper that auto-detects new Discord quests and broadcasts them across servers.
+`Discord.js` `Puppeteer`
+
+**🖥️ [DeskManager](https://github.com/SimpliAj/DeskManager)** ⭐ 4
+Modern open-source desktop management solution for Windows.
+`C#`
 
 ---
 
