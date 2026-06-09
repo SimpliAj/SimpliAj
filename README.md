@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://simpliaj.xyz"><img src="https://img.shields.io/badge/simpliaj.xyz-Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://app.reptileex.xyz"><img src="https://img.shields.io/badge/ReptileEx-Live_App-22C55E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://reptileex.xyz"><img src="https://img.shields.io/badge/ReptileEx-Live_App-22C55E?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SimpliAj&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
 </p>
 
