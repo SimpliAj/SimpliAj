@@ -19,7 +19,6 @@ const developer = {
   name:     "SimpliAj",
   role:     "Full Stack Developer",
   location: "Austria 🇦🇹",
-  status:   "● open for freelance & custom projects",
   focus:    ["Web Apps & PWAs", "Automation", "Discord Bots", "Mobile Apps", "AI Agents"],
   shipping: [
     "Multi-server backends with monitoring + auto-recovery",
