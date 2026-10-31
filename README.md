@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:06B6D4&height=180&section=header&text=SimpliAj&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Automation%20%C2%B7%20Bots%20%C2%B7%20Infra&descAlignY=60&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=50&lines=I+build+things+that+actually+work.;Systems+that+heal+themselves+at+3+AM.;Bots%2C+dashboards%2C+pipelines%2C+apps." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=50&lines=I+build+things+that+actually+work.;Web+apps+%C2%B7+Discord+bots+%C2%B7+automation." alt="Typing SVG" />
 
 <p>
   <a href="https://simpliaj.xyz"><img src="https://img.shields.io/badge/simpliaj.xyz-Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -23,9 +23,9 @@ const developer = {
   status:   "● open for freelance & custom projects",
   focus:    ["Web Apps & PWAs", "Automation", "Discord Bots", "Mobile Apps", "AI Agents"],
   shipping: [
-    "Self-healing multi-server infra (watchdogs, alerts, auto-recovery)",
+    "Multi-server backends with monitoring + auto-recovery",
     "Raspberry Pi + rooted Android automation",
-    "Realtime dashboards with Web Push",
+    "Realtime dashboards + PWAs with push",
   ],
   background: [
     "Security Research & Browser Tooling",
@@ -51,7 +51,7 @@ Full-stack reptile management platform: terrarium tracking, breeding calculator,
 <td width="50%" valign="top">
 
 **🃏 [Team G](https://www.gpackfarm.xyz)** · [website ↗](https://www.gpackfarm.xyz)<br>
-Pokémon TCG Pocket platform: live dashboard + installable PWA with push, Discord bots, tiered plans, distributed backend across multiple servers, monitored 24/7.<br>
+Service for Pokémon TCG Pocket players: web dashboard + installable mobile app (PWA) with push notifications, Discord bot integration and paid plans. Backend spread over several servers.<br>
 `Node.js` `PostgreSQL` `Socket.IO` `PWA` `Discord.js`
 
 </td>
@@ -112,7 +112,7 @@ Discord bot for TCG Pocket rerolling: smarter filtering, setup wizard, stats.<br
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress&perline=8" />
 <img src="https://skillicons.dev/icons?i=nodejs,py,php,lua,bash,cs,java,docker&perline=8" />
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,supabase,nginx,vercel,git&perline=8" />
-<img src="https://skillicons.dev/icons?i=linux,raspberrypi,androidstudio,githubactions,cloudflare,discord,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,raspberrypi,discord,vscode&perline=8" />
 
 </div>
 
