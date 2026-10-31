@@ -109,8 +109,8 @@ Discord bot for TCG Pocket rerolling: smarter filtering, setup wizard, stats.<br
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,wordpress&perline=8" />
-<img src="https://skillicons.dev/icons?i=nodejs,py,php,lua,bash,cs,java,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,lua,bash,cs,java,docker&perline=8" />
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,supabase,nginx,vercel,git&perline=8" />
 <img src="https://skillicons.dev/icons?i=linux,raspberrypi,discord,vscode&perline=8" />
 
