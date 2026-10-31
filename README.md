@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:06B6D4&height=180&section=header&text=SimpliAj&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Automation%20%C2%B7%20Bots%20%C2%B7%20Infra&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=50&lines=I+build+things+that+actually+work.;Web+apps+%C2%B7+Discord+bots+%C2%B7+automation." alt="Typing SVG" />
 
